@@ -140,6 +140,6 @@ vite.config.ts.timestamp-*
 
 node_modules/
 .env
-.ca.pem.txt
+ca.pem
 *.log
 .DS_Store
